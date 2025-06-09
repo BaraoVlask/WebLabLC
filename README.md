@@ -54,3 +54,4 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 ## 📜 Licença
 
 Este projeto está sob a licença Creative Commons.
+
