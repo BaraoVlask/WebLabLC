@@ -53,4 +53,4 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 
 ## 📜 Licença
 
-Este projeto está sob a licença Creative Commons. É recomendado adicionar um arquivo `LICENSE` ao repositório para especificar qual das [licenças Creative Commons](https://creativecommons.org/licenses/) se aplica.
+Este projeto está sob a licença Creative Commons.
